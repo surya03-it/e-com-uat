@@ -1,1 +1,1 @@
-add the sample
+add the sample, the simple algotithm works faster and better
